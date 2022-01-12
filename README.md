@@ -3,7 +3,7 @@ This is the main repository for my portfolio.</br>
 - [My Medium](https://medium.com/@sh330035)
 - [My LinkIn](https://www.linkedin.com/in/david-hsieh-751875194/)
 ---
-### skills
+### Skills
 <a href="https://html.com/">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 </a>
@@ -34,7 +34,7 @@ This is the main repository for my portfolio.</br>
 </a>
 
 ---
-### portfolio
+### Portfolio
  
 |#|專案名稱|Live Demo|Skills
 |--|----|----|----
