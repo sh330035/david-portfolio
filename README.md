@@ -47,6 +47,13 @@ This is the main repository for my portfolio.</br>
 |07|[課程網站專案後端](https://github.com/sh330035/course-project-express)|Demo|Express / 製作api
 
 ---
+#### Front-End 50 mini projects
+
+|#|專案名稱|Live Demo
+|--|----|----
+|01|[Expanding-card](https://github.com/sh330035/front-end-50/tree/main/expanding-cards)|[Demo](https://sh330035.github.io/front-end-50/expanding-cards/)
+
+---
 ### Contact
 <a href="https://www.linkedin.com/in/david-hsieh-751875194/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
