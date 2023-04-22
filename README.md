@@ -44,6 +44,7 @@ This is the main repository for my portfolio.</br>
  
 |#|專案名稱|Live Demo|Skills
 |--|----|----|----
+|10|[Todo-React&Redux](https://github.com/sh330035/todo_react_redux)|Demo|React, Redux, React-bootstrap
 |09|[Todo-TypeScript](https://github.com/sh330035/todo_typescript)|Demo|Vue3, Tailwind, TypeScript
 |08|[登入系統 & 購物車](https://github.com/sh330035/interview-project)|動態網站|Nuxt, Vuex, Tailwind
 |07|[課程網站專案後端](https://github.com/sh330035/course-project-express)|動態網站|Express / 製作api
